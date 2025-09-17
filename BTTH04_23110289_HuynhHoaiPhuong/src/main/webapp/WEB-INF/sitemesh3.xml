@@ -1,0 +1,4 @@
+<config>
+    <mapping path="/Views/login.jsp" exclude="true"/>
+    <mapping path="/*" decorator="/layout.jsp"/>
+</config>
